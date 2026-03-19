@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Gradle
+.gradle/
+build/
+/app/build/
+
+# IDE
+.idea/
+*.iml
+.kotlin/
+
+# Secrets
+local.properties
+google-services.json
+*.jks
+*.keystore
+*.p12
+
+# Env
+*.env
+!.env.example
