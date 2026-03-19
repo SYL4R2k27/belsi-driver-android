@@ -12,12 +12,6 @@ Android-приложение для водителей — доставка ст
 - CameraX
 - WorkManager
 
-## Сборка
-
-1. Клонировать репозиторий
-2. Создать `local.properties` с `sdk.dir=/path/to/Android/sdk`
-3. `./gradlew assembleDebug`
-
 ## Лицензия
 
 Proprietary. All rights reserved.
